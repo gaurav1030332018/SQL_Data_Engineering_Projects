@@ -1,0 +1,1 @@
+select *, cast(salary_year_avg as INT) from job_postings_fact;
